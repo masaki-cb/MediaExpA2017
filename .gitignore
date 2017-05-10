@@ -1,0 +1,9 @@
+# directory
+data/
+
+# MIDI file
+*.mid
+
+# Mac files
+.DS_Store
+._*
